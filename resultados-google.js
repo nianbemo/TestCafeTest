@@ -17,8 +17,6 @@ test
 		//.click(botonBuscar)
 		.expect(resultadobuscar.innerText).contains('Speedtest')
 		const resultadobuscartexto = await resultadobuscar.innerText
-		console.log('Primer resultado: ' + resultadobuscartexto)
-		console.log('Resultados: ' + resultadobuscartexto.length)
-		
+		console.log('Primer resultado: ' + resultadobuscartexto)		
 		
     });
