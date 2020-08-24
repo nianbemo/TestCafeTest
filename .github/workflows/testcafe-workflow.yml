@@ -1,4 +1,5 @@
 # This is a basic workflow to help you get started with Actions
+# https://devexpress.github.io/testcafe/documentation/guides/continuous-integration/github-actions.html
 
 name: CI
 
